@@ -12,7 +12,7 @@ export function Countdown() {
     isActive,
     resetCountDown,
     startCountDown
-  } = useContext(CountdownContext);
+  } = useContext(CountdownContext); 
   
   const [minuteLeft, minuteRight] = String(minutes).padStart(2, '0').split('');
   const [secondsLeft, secondsRight] = String(seconds).padStart(2, '0').split('');
