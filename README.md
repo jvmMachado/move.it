@@ -1,5 +1,5 @@
-# rocketseat-nlw04
-Projeto em React JS desenvolvido durante o evento Next Level Week #04 da Rocketseat
+# move.it!
+![moveit](https://user-images.githubusercontent.com/26936266/128254508-7a923c92-d60e-4b91-883e-e1c719ba2877.png)
 
-# Acesso à aplicação:
+## Acesso à aplicação:
 https://nlw04-moveit-ten.vercel.app/
